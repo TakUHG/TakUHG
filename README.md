@@ -1,32 +1,76 @@
-# Hi, I'm Taku
 
-Mechanical Engineering student at EAFIT, interested in engineering, research, and aerospace.
+# Hey, I'm Taku 👋
 
-> **Trying to turn my falls into big steps forward**
+### Mechanical Engineering student @ EAFIT
 
-## About me
+> *Curiosity is a pretty good place to start.*
 
-- 🎓 Mechanical Engineering student at EAFIT
-- 🔬 Interested in research and scientific engineering
-- 🛰️ Exploring aerospace engineering and space systems
-- ⚙️ Building skills in engineering, programming, simulation, and design
-- 📚 Developing a long-term path toward international research and graduate study
+*Design is never right the first time. Mine isn't either — yet.*
 
-## Currently
+I'm interested in figuring out how things work, breaking them down, rebuilding them,
+and occasionally making them do things they probably weren't designed to do.
 
-- Building **Odisea**, my personal knowledge and execution system
-- Developing my engineering foundations
-- Exploring research opportunities and technical projects
-- Building a portfolio through projects and documented learning
+Currently somewhere between:
 
-## Interests
-
-`Mechanical Engineering` · `Aerospace` · `Research` · `Engineering Design` · `Simulation` · `Programming` · `Space Systems`
+`mechanical engineering` → `research` → `aerospace` → `???`
 
 ---
 
-### The long game
+## 🧠 What I'm into
 
-I don't want to simply learn engineering.
+⚙️ Mechanical systems  
+🛰️ Aerospace & space systems  
+🔬 Research & scientific engineering  
+💻 Programming & simulation  
+🧩 Complex problems that refuse to be simple  
 
-I want to understand it deeply enough to build things that matter.
+---
+
+## 🚀 Currently building
+
+### 🧭 [Odisea](https://github.com/TakUHG/Odisea)
+
+A personal knowledge and execution system built to advance curiosity into
+capability, ideas into projects, and ambition into my place in engineering,
+research, and aerospace.
+
+Basically:
+
+**learn → connect → build → fail → figure it out → build again**
+
+---
+
+## 🔭 On the radar
+
+- Learning the fundamentals properly
+- Getting involved in research
+- Building things instead of just reading about them
+- Exploring aerospace and space systems
+- Turning university projects into actual engineering projects
+- Eventually doing something slightly unreasonable with all of this
+
+---
+
+## 🛠️ Things I'm learning
+
+`Python` · `CAD` · `MATLAB` · `Git` · `Engineering Mathematics`
+`Physics` · `Simulation` · `Data Analysis`
+
+> The list is intentionally unfinished.
+
+---
+
+## 📡 Mission status
+
+**Year:** 01  
+**Location:** Medellín, Colombia  
+**Current objective:** Build the foundations.  
+**Long-term objective:** Find out how far they can take me.
+
+---
+
+**Still building the fundamentals. The big rockets come later.**
+
+### 🛰️ The long game
+
+**Learn it deeply. Build it with intent. Go further. Make it count.**
